@@ -1,0 +1,11 @@
+id_tienda;nombre_tienda;clasificacion_tienda;tipo_formato;region;cobertura_min_dias;participa_promociones
+T001;Tienda MetroCentro;A;Mall;Centro;7;TRUE
+T002;Tienda Norte;B;Calle;Norte;5;TRUE
+T003;Tienda Sur;B;Calle;Sur;5;TRUE
+T004;Tienda Este;C;Calle;Este;3;FALSE
+T005;Tienda Oeste;C;Calle;Oeste;3;FALSE
+T006;Tienda LGV;A;Mall;Centro;7;TRUE
+T007;Tienda Express;B;Express;Norte;5;TRUE
+T008;Tienda Outlet 1;C;Outlet;Sur;3;FALSE
+T009;Tienda Outlet 2;C;Outlet;Este;3;FALSE
+T010;Tienda Mall City;A;Mall;Centro;7;TRUE
